@@ -22,4 +22,7 @@ Mean Temperature = 71.04
 ## Comparing the Findings for the month of June and December ##
 
 June
+![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I1.png)
 ![]()
+
+--------------------------------------------------------------------------
