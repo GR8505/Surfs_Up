@@ -36,3 +36,11 @@ December
 ![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I4.png)
 
 -------------------------------------------------------------------------
+
+
+## Recommendations for Further Analysis ##
+
+1) Performing trend analysis for temperatures to see if there are cyclical patterns
+2) Performing statistical analysis for precipitation
+
+-------------------------------------------------------------------------------
