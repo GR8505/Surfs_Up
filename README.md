@@ -1,11 +1,14 @@
-# Surfs_Up
-----------------------------------------------------------------------------
-## Key Statistical Data - June ##
+# Surfs Up Analysis
+---------------------------
+## Key Statistical Data ## 
+---------------------------
 
-Mean Temperature = 74.94
-
-### Other Statistics ###
-![](https://github.com/GR8505/Surfs_Up/blob/master/Images/june1.png)
+June                     |December
+-------------------------|-------------------------------------
+Mean Temperature = 74.94 | Mean Temperature = 71.04
+-------------------------|-------------------------------------
+![](https://github.com/GR8505/Surfs_Up/blob/master/Images/june1.png) | ![](https://github.com/GR8505/Surfs_Up/blob/master/Images/june1.png)
+---------------------------------------------------------------------|---------------------------------------------------------------------
 
 ---------------------------------------------------------------------------
 
