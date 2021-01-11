@@ -4,7 +4,7 @@
 ## Overview ##
 ---------------
 In this project, I collected seasonal weather data for an entrepreneur who was seeking to
-start a surf board and milkshake business in Oahu.  However, while this type of business
+start a surfboard and milkshake business in Oahu.  However, while this type of business
 may be profitable for the majority of the year, the investor was a bit concerned about the
 weather patterns, especially for the months of June and December, when it tends to fluctuate.
 
