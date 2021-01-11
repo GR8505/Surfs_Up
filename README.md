@@ -35,24 +35,16 @@ Mean Temperature = 74.94 | Mean Temperature = 71.04
 ## Visuals ##
 --------------
 
-June                          |December
-------------------------------|-----------------------------------
+**June**                         |**December**
+---------------------------------|-----------------------------------
 ![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I1.png) | ![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I3.png)
 ![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I2.png) | ![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I4.png)
 
+See [jupyter notebook]() for full syntax on how this was achieved.
 
-
-December
-
-![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I3.png)
-
-![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I4.png)
-
--------------------------------------------------------------------------
-
-
+-------------------------------------------
 ## Recommendations for Further Analysis ##
-
+-------------------------------------------
 1) Performing trend analysis for temperatures to see if there are cyclical patterns
 2) Performing statistical analysis for precipitation
 
