@@ -19,6 +19,8 @@ of recommendations for further analysis.
 * SQLite
 * SQLAlchemy
 * Flask
+* Matplotlib
+* Pandas
 
 ---------------------------
 ## Key Statistical Data ## 
@@ -29,20 +31,16 @@ June                     |December
 Mean Temperature = 74.94 | Mean Temperature = 71.04
 ![](https://github.com/GR8505/Surfs_Up/blob/master/Images/june1.png) | ![](https://github.com/GR8505/Surfs_Up/blob/master/Images/june1.png)
 
+--------------
+## Visuals ##
+--------------
 
----------------------------------------------------------------------------
+June                          |December
+------------------------------|-----------------------------------
+![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I1.png) | ![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I3.png)
+![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I2.png) | ![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I4.png)
 
 
-
-## Comparing the Findings for the month of June and December ##
-
-June
-
-![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I1.png)
-
-![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I2.png)
-
---------------------------------------------------------------------------
 
 December
 
