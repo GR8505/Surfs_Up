@@ -8,7 +8,7 @@ start a surf board and milkshake business in Oahu.  However, while this type of 
 may be profitable for the majority of the year, the investor was a bit concerned about the
 weather patterns, especially for the months of June and December, when it tends to fluctuate.
 
-My main task was to create an app to collect key statistical data for the months of June and 
+My main task was to create an [app](https://github.com/GR8505/Surfs_Up/blob/master/app.py) to collect key statistical data for the months of June and 
 December. Once that was completed, I then proceeded to compare my findings and made a couple 
 of recommendations for further analysis.
 
