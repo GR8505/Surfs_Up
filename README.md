@@ -1,4 +1,25 @@
 # Surfs Up Analysis
+
+---------------
+## Overview ##
+---------------
+In this project, I collected seasonal weather data for an entrepreneur who was seeking to
+start a surf board and milkshake business in Oahu.  However, while this type of business
+may be profitable for the majority of the year, the investor was a bit concerned about the
+weather patterns, especially for the months of June and December, when it tends to fluctuate.
+
+My main task was to create an app to collect key statistical data for the months of June and 
+December. Once that was completed, I then proceeded to compare my findings and made a couple 
+of recommendations for further analysis.
+
+----------------
+## Resources ##
+----------------
+* Python
+* SQLite
+* SQLAlchemy
+* Flask
+
 ---------------------------
 ## Key Statistical Data ## 
 ---------------------------
@@ -11,14 +32,6 @@ Mean Temperature = 74.94 | Mean Temperature = 71.04
 
 ---------------------------------------------------------------------------
 
-## Key Statistical Data - December ##
-
-Mean Temperature = 71.04
-
-### Other Statistics ###
-![](https://github.com/GR8505/Surfs_Up/blob/master/Images/june1.png)
-
----------------------------------------------------------------------------
 
 
 ## Comparing the Findings for the month of June and December ##
