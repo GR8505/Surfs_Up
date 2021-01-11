@@ -40,7 +40,7 @@ Mean Temperature = 74.94 | Mean Temperature = 71.04
 ![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I1.png) | ![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I3.png)
 ![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I2.png) | ![](https://github.com/GR8505/Surfs_Up/blob/master/Images/I4.png)
 
-See [jupyter notebook]() for full syntax on how this was achieved.
+See [jupyter notebook](https://github.com/GR8505/Surfs_Up/blob/master/climate_analysis.ipynb) for full syntax on how this was achieved.
 
 -------------------------------------------
 ## Recommendations for Further Analysis ##
